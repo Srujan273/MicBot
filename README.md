@@ -2,7 +2,7 @@
 A React app for voice-based AI interaction.
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/yourusername/voice-ai-app`
+1. Clone the repo: `git clone https://github.com/Srujan273/MicBot.git`
 2. Install dependencies: `npm install`
 3. Run locally: `npm run dev`
 
